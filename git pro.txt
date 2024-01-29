@@ -1,0 +1,19 @@
+git init ===> convert your normal directory into git directory. Initialize the git for the project
+
+git add <path>
+git add --all ===> add the files indicated in the staging area
+
+git commit -m "done" ===> commit the change as snapshot in the git
+
+git remote add petstore https://github.com/ekitv2021/petstore_7_9.git ===> create a remote refer named petstore to the remote git
+
+git push petstore main ===> push the changes from the local git to the remote git
+https://drive.google.com/file/d/1DlgmaSh7AAwMhZrdj3IPBQJvqP4cdVq-/view?usp=sharing
+
+
+
+
+
+drive link:https://drive.google.com/drive/folders/1lfVRb6lUwg4jxsAXbYiSaj0jV0-G5dx0?usp=sharing
+
+interview question:https://docs.google.com/document/d/1d7PIo1dxxg-0nPH9qa7jfp-cDHOvSKQ8gdIf2u3Yarc/edit?usp=sharing
